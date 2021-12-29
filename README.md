@@ -10,6 +10,9 @@ Game (around 20gb, has around 6800+ buildings based on real world GIS location
 data/Jamaica/Montego Bay, although the only 1 destructive instance seen in video, along with
 vegetation biome, dynamic grass, aura lighting etc)!
 
+Each destructible building consists of a set of hand-assembled walls of individual destructible bricks, with steel support, featuring destructible individual blocks contrary to popular whole wall damage systems. 
+====
+
 For destruction, with a little trick of mine on top, I used [DinoFracture plugin](https://assetstore.unity.com/packages/tools/physics/dinofracture-a-dynamic-fracture-library-26599). (See [a youtube video on basic setup](https://www.youtube.com/watch?v=Ob915rNk3-k))
 
 In short [without the trick, one typically gets large cracks of entire walls](https://www.youtube.com/watch?v=Kn8YgywItXQ&feature=youtu.be), where instead I sought
