@@ -1,5 +1,5 @@
 # UNITY_3D_INDIVIDUAL_BRICK_BLOCK_DESTRUCTION
-Quick instructions on how to accomplish brick/brick destruction
+Quick instructions on how to accomplish brick/brick destruction. (contact me here if game code is desired. Hefty, 20 gigabytes uncompressed, 10gb download google drive)
 
 
 Author: God Bennett, [Extortionist gameplay](https://youtu.be/B4mDnA1M0nE)
