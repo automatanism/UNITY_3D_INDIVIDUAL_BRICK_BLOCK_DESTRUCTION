@@ -1,3 +1,5 @@
+![image](https://github.com/automatanism/UNITY_3D_INDIVIDUAL_BRICK_BLOCK_DESTRUCTION/blob/main/thumb_jpg.jpg)
+
 # UNITY_3D_INDIVIDUAL_BRICK_BLOCK_DESTRUCTION
 Quick instructions on how to accomplish brick/brick destruction. (contact me here if my game code for unity 2019.4.14f1 is desired for educational purposes etc. Hefty, 20 gigabytes uncompressed, 10gb download google drive)
 
