@@ -39,4 +39,6 @@ with the prefac folders. Solution was one line of code attached to each brick co
 which simply unlinked the brick/prefac folder from parent group name at runtime, and
 precise/chunk eruption returned:
 
+![image](https://github.com/automatanism/UNITY_3D_INDIVIDUAL_BRICK_BLOCK_DESTRUCTION/blob/main/frac_correction_on_grouping.png)
+
 Future work: Some type of dynamic collision system, [like seen in this one other similar unity 3d video of brick destruction on a smaller scale, although the system in the video seems to freeze everytime a brick is destroyed](https://youtu.be/_-WdU4VQjZI), unlike my system or [this unreal engine sleeping function that kills simulation of already grounded/fractured pieces](https://youtu.be/VWzCMGcC6eA?t=610). Apart from the 6 DinoFracture steps above, another reasonably fast unity destruction that seems to do individual bricks is seen [in CaronteFx](https://youtu.be/JqctvCmlky0).
